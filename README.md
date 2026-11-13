@@ -238,3 +238,6 @@ fraction_A_lower = count(difference > 0) / M
 | Solvent recovery | 65%, 80%, 90% | 78%, 90%, 97% |
 | Electricity per kg of feed | 1.0, 1.4, 1.8 kWh | 2.0, 2.7, 3.4 kWh |
 ```
+
+<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/9007af17-12cb-4996-ae80-b1f0817481ed" />
+
