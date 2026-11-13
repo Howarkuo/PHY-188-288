@@ -1,6 +1,8 @@
 # PHY-188-288
 
 ## 1. Monte carlo and usage in Life Cycle Analysis 
+<img width="1473" height="866" alt="Screenshot 2026-11-12 at 8 53 16 PM" src="https://github.com/user-attachments/assets/828f5bb4-bc2b-4034-84fb-019388d1b2fc" />
+
 Calculate one estimate per experiment
 <img width="2048" height="1423" alt="image" src="https://github.com/user-attachments/assets/60aaa3cb-4a57-4eb1-b51e-d0136babef16" />
 
@@ -167,6 +169,9 @@ e_theo = 4 * np.sqrt(p * (1 - p) / np.array(N))
 
 ```
 ## 1.1 Why the error in estimation shrinks?
+![Uploading Screenshot 2026-11-12 at 8.52.54 PM.png…]()
+<img width="1279" height="724" alt="Screenshot 2026-11-12 at 8 51 31 PM" src="https://github.com/user-attachments/assets/e1dffa27-3d9e-4a19-ab54-3b6788cced47" />
+
 <img width="2048" height="1423" alt="image" src="https://github.com/user-attachments/assets/6b6ee4fd-df9c-4566-a2f8-76f1a6a51681" />
 
 ```
