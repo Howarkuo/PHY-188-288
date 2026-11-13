@@ -1,7 +1,9 @@
 # PHY-188-288
 
 ## 1. Monte carlo and usage in Life Cycle Analysis 
-1. Calculate one estimate per experiment
+Calculate one estimate per experiment
+<img width="2048" height="1423" alt="image" src="https://github.com/user-attachments/assets/60aaa3cb-4a57-4eb1-b51e-d0136babef16" />
+
 
 ## Monte Carlo Estimation of $\pi$
 
